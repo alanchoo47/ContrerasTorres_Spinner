@@ -8,15 +8,13 @@ import android.widget.Button
 import android.widget.TextView
 import kotlin.math.pow
 
-class MainActivity : AppCompatActivity() {
+class DistanciaDosPuntos : AppCompatActivity() {
 
     private lateinit var tvResultado: TextView
     private lateinit var x1: EditText
     private lateinit var x2: EditText
     private lateinit var y1: EditText
     private lateinit var y2: EditText
-
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

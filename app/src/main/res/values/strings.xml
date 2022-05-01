@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">ContrerasTorres_Spinner</string>
+    <string name="Titulo_Spinner">Spinner</string>
+    <string name="Titulo_Trigonometria">Ángulo theta de un triangulo</string>
+    <string name="Titulo_DistanciaDosPuntos">Distancia entre dos puntos</string>
+    <string name="Titulo_">ContrerasTorres_Spinner</string>
+
+    <string name="Variable_X1">X1</string>
+    <string name="Variable_X2">X2</string>
+    <string name="Variable_Y1">Y1</string>
+    <string name="Variable_Y2">Y2</string>
+    <string name="Cateto_Opuesto">Cateto_Opuesto</string>
+    <string name="Cateto_Adyacente">Cateto_Adyacente</string>
+
+
+    <string name="btnVerificar">Verificar</string>
+    <string name="btnVerificarTrig">Verificar</string>
+    <string name="btnVerificar1">Verificar</string>
+
+    <string name="hintx1">Número</string>
+    <string name="hintx2">Número</string>
+    <string name="hinty1">Número</string>
+    <string name="hinty2">Número</string>
+    <string name="hintCatOp">Número</string>
+    <string name="hintCatAdy">Número</string>
+
+    <string name="RespuestaDosPuntos">Aquí va la respuesta</string>
+    <string name="RespuestaTrig">Aquí va la respuesta</string>
+    <string name="Respuesta">Aquí va la respuesta</string>
+
+
+
+
 </resources>
